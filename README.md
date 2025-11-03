@@ -13,7 +13,7 @@ The **Expense Tracker Application** is a full-stack MERN project that helps user
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/expense-tracker.git
+git clone https://github.com/codeknack23/expense_tracker
 cd expense-tracker
 
 expense-tracker/
