@@ -1,4 +1,4 @@
-# 💰 Expense Tracker (MERN Stack)
+# Expense Tracker (MERN Stack)
 
 ## 🧾 Overview
 The **Expense Tracker Application** is a full-stack MERN project that helps users manage their income and expenses efficiently. It allows users to add, view, filter, and delete transactions, and provides a visual chart summary to analyze spending habits.
